@@ -1,1 +1,0 @@
-/nix/store/95k9rsn1zsw1yvir8mj824ldhf90i4qw-gcc-wrapper-14.3.0/bin/g++ -Wall -Wfatal-errors -std=c++23 -Wl,--dependency-file=CMakeFiles/main.dir/link.d CMakeFiles/main.dir/main.cpp.o CMakeFiles/main.dir/equity_price_generator.cpp.o CMakeFiles/main.dir/option_info.cpp.o -o main
